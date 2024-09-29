@@ -15,6 +15,7 @@ dbdegoh@my.waketech.edu
 I enjoy being active/physical, and one of my favorite hobbies is working out/lifting.
 ## Websites I recommend
 -[youtube](https://www.youtube.com/) I find you tube very entertaining and helpful with anything I am curious about.
+
 -[Twitter](https://x.com/) Twitter is very informs/entertains me with what's going on around me or in the world in general.
 
 
