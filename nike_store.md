@@ -5,6 +5,5 @@ flowchart TD
     C -->|One| [Inventory]
     D -->|Two| [Customers]
     E -->|Three| [Sales]
-
- ```
+```
   
